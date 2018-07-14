@@ -14,4 +14,4 @@ let ageIsValid = Number.isInteger(currentAge);
 
 let randomNumber = Math.random() *20;
 
-const randomInteger = Number.floor(randomNumber);
+let randomInteger = Number.floor(randomNumber);
