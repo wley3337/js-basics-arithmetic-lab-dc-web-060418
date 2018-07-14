@@ -8,6 +8,6 @@ You should NOT try to redefine any of the above variables.
 
 // Write your code below this line!
 
-const newId(old) {1000000000 + old};
+const newId = 1000000000 + oldId;
 
 
